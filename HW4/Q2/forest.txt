@@ -1,0 +1,5 @@
+1. Random forests are less prone to overfitting than traditional trees because of bagging. Measuring OOB error also provides a good metric to test the quality of a random forest classification model.
+
+2. With a forest size of 50, I was able to run the code in 120 seconds.
+
+3. I was able to achieve an accuracy of 74.88% with the forest size of 50.

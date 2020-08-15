@@ -1,0 +1,6 @@
+cluster login username:admin
+PW: Marshmallow@97
+SSH username: sshuser
+
+primary storage account: (New) myclusterpkauhdstorage
+container: myclusterpkaundinya3-2020-03-10t01-02-43-855z

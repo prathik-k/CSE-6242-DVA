@@ -1,0 +1,1 @@
+Nonlinear scales are useful when there is great difference in the y-value of the datasets being plotted. For instance, flat lines at y=1 and y=10000 are very well captured on a log scale. On a linear scale, this is messy because several hundred tick marks would be necessary to plot them simultaneously; However, on a log scale, only 5 divisions would be sufficient. 

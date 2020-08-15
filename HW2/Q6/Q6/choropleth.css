@@ -1,0 +1,42 @@
+#legTitle{
+    font-weight:bold;
+    position: absolute;
+    margin-top:260px;
+    margin-left:985px;
+    height: 20px;
+    width: 150px;
+    white-space: nowrap;
+}
+
+.toolTip{
+    background-color:grey;
+    color:white;
+}
+
+.border{
+    fill: none;
+    stroke: black;
+    stroke-width: 2px; 
+    pointer-events: none;
+}
+
+#gt_id{
+    text-align:right;
+    font-size:15px;
+    position: absolute;
+    margin-left:950px;
+    margin-top:820px;
+    font-family:sans-serif;
+}
+
+#caption{
+	position: absolute;
+	margin-top:30px;
+    margin-left:70px;
+	height: 30px;
+	width: 90px;
+	font-weight:bold;
+}
+
+
+

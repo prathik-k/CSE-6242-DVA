@@ -1,0 +1,1 @@
+/FileStore/tables/nyc_tripdata-069c2.csv
