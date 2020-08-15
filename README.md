@@ -1,2 +1,3 @@
 # CSE-6242-DVA
-Georgia Tech Data and Visual Analytics (DVA) - Spring 2020
+CSE 6242-Data and Visual Analytics, Georgia Tech, Spring 2020
+
